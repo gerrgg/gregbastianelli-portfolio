@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Cofi",
+    "tags": ["personal project", "react", "express"],
+    "url": "https://cofi.sh/",
+    "thumbnail": "/images/cofi.png"
+  },
+  {
+    "id": 2,
+    "title": "Bissell Pet Foundation",
+    "tags": ["non-profit", "wordpress", "map integration"],
+    "url": "https://www.bissellpetfoundation.org/",
+    "thumbnail": "/images/bissell-pet-foundation.png"
+  }
+]
